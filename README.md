@@ -108,6 +108,18 @@ Dataset source: [Kaggle – TMDB 5000 Movie Dataset](https://www.kaggle.com/data
 
 Download both CSV files and place them inside the `data/` directory.
 
+
+## 🖥️ Application Screenshots
+
+### 1. Discover Your Next Film
+
+![CineMatch AI Dashboard](images/Discover%20your%20next%20film.png)
+
+### 2. Movie Recommendations
+
+![CineMatch AI Recommendations](images/Selected%20for%20you.png)
+
+
 ## 🚀 Future Improvements
 
 - Movie poster integration.
